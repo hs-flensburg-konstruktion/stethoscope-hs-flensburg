@@ -1,7 +1,7 @@
 Stethoscope
 ===========
 
-This project aims to create a research-validated stethoscope whose plans are 
+This project's goal is to create a research-validated stethoscope whose plans are 
 available freely and openly. The goal is for the bell to cost ~USD$1-2 to produce, 
 and the rest of the stethoscope to cost approximately the same. You can see the peer-reviewed publication relating to this stethoscope's validation here:
 
