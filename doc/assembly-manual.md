@@ -21,6 +21,12 @@ To understand this you need to read this file:
 
 # picture 1
 
-![alt text][../res/test-glia.jpg]
+![alt text](../res/test-glia.jpg)
 
+![description of the picture](../res/test-glia.jpg)
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
