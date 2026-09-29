@@ -15,6 +15,13 @@ To understand this you need to read this file:
 
 [README](../README.md)
 
+../
+
+[dsafhdsa fjkdsafjdsa fldsa](./user-manual.md)
+
+
+./ -> This folder
+
 
 ../ -> take me back a folder up
 
