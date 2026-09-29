@@ -17,3 +17,10 @@ To understand this you need to read this file:
 
 
 ../ -> take me back a folder up
+
+
+# picture 1
+
+![alt text][../res/test-glia.jpg]
+
+
